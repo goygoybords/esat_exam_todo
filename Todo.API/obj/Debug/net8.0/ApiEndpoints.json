@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Todo.API.Controllers.CompanyController",
+    "Method": "Get",
+    "RelativePath": "api/Company",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
